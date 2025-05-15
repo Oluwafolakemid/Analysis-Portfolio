@@ -1,4 +1,4 @@
-#📊 Business Analytics Portfolio
+# 📊 Business Analytics Portfolio
 
 Welcome to my Business Analytics Portfolio!
 Here, I showcase projects that apply data analysis, visualization, and business intelligence techniques to solve real-world business problems. My goal is to turn raw data into actionable insights that support smarter decisions.
@@ -19,12 +19,12 @@ Applying machine learning for forecasting and classification tasks.
 Business Recommendations
 Connecting the data to real outcomes—what should the business do next?
 
-##Tools & Languages
+## Tools & Languages
 Python (Pandas, NumPy, Seaborn, Matplotlib)
 Jupyter Notebooks
 GitHub
 
-##Projects
+## Projects
 
 Each folder contains:
 
